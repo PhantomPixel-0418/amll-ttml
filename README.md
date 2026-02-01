@@ -18,3 +18,6 @@
 
 - TheFatRat, Laura Brehm - We'll Meet Again
   - <https://github.com/Steve-xmh/amll-ttml-db/pull/8032>
+
+- 24kGoldn, iann dior - Mood
+  - <https://github.com/Steve-xmh/amll-ttml-db/pull/8054>
