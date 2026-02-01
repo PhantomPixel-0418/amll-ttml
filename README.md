@@ -21,3 +21,6 @@
 
 - 24kGoldn, iann dior - Mood
   - <https://github.com/Steve-xmh/amll-ttml-db/pull/8054>
+
+- TheFatRat, Cecilia Gault - Escaping Gravity
+  - <https://github.com/Steve-xmh/amll-ttml-db/pull/8056>
