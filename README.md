@@ -24,3 +24,6 @@
 
 - TheFatRat, Cecilia Gault - Escaping Gravity
   - <https://github.com/Steve-xmh/amll-ttml-db/pull/8056>
+
+- TheFatRat, Maisy Kay - The Storm
+  - <https://github.com/Steve-xmh/amll-ttml-db/pull/8059>
