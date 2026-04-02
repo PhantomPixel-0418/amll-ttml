@@ -27,3 +27,6 @@
 
 - TheFatRat, Maisy Kay - The Storm
   - <https://github.com/Steve-xmh/amll-ttml-db/pull/8060>
+
+- Terror Jr - 3 Strikes
+  - <https://github.com/Steve-xmh/amll-ttml-db/pull/8926>
