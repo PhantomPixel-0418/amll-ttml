@@ -30,3 +30,6 @@
 
 - Terror Jr - 3 Strikes
   - <https://github.com/Steve-xmh/amll-ttml-db/pull/8926>
+
+- Lukas Graham - 7 Years
+  - <https://github.com/Steve-xmh/amll-ttml-db/pull/9052>
