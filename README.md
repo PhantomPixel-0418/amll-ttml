@@ -33,3 +33,6 @@
 
 - Lukas Graham - 7 Years
   - <https://github.com/Steve-xmh/amll-ttml-db/pull/9052>
+
+- Justin Bieber, Nicki Minaj - Beauty And A Beat
+  - <https://github.com/Steve-xmh/amll-ttml-db/pull/9056>
