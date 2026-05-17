@@ -42,3 +42,6 @@
 
 - Camila Cabello, Young Thug - Havana
   - <https://github.com/Steve-xmh/amll-ttml-db/pull/9373>
+
+- Jaymes Young - Infinity
+  - <https://github.com/Steve-xmh/amll-ttml-db/pull/9386>
