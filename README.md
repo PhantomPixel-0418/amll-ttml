@@ -39,3 +39,6 @@
 
 - ILLENIUM, Phoebe Ryan - Mine (Illenium Remix)
   - <https://github.com/Steve-xmh/amll-ttml-db/pull/9355>
+
+- Camila Cabello, Young Thug - Havana
+  - <https://github.com/Steve-xmh/amll-ttml-db/pull/9373>
