@@ -45,3 +45,6 @@
 
 - Jaymes Young - Infinity
   - <https://github.com/Steve-xmh/amll-ttml-db/pull/9386>
+
+- Alan Walker, Noah Cyrus, Digital Farm Animals, Juliander - All Falls Down, All Falls Down (feat. Juliander), 一切陨落
+  - 暂时还没有
