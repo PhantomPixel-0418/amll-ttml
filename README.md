@@ -48,3 +48,6 @@
 
 - Alan Walker, Noah Cyrus, Digital Farm Animals, Juliander - All Falls Down, All Falls Down (feat. Juliander), 一切陨落
   - 暂时还没有
+
+- Alan Walker, Sabrina Carpenter, Farruko - On My Way, 《和平精英》盛夏推广曲, On My Way (Explicit)
+  - <https://github.com/Steve-xmh/amll-ttml-db/pull/9533>
